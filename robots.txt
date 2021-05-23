@@ -9,4 +9,8 @@ Added two line
 weird-experimentation
 Added third line
 Added fourth line
+<<<<<<< HEAD
 Another new line added
+=======
+New line added
+>>>>>>> 77a42d98c31668ba112d8f19c0047f056b66f7b9
