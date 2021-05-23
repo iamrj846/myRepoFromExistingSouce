@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 2nd line added
+=======
+1st line added
+>>>>>>> 275840c5c699d5d772ec17c1ee04066299cdb61c
